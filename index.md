@@ -15,12 +15,12 @@ A curated collection of our favorite recipes.
 
 ## Recipe Categories
 
-- [Cookies](/recipes/cookies/) 
-- [Main Dishes](/recipes/main-dishes/)
-- [Desserts](/recipes/desserts/)
+- [Cookies]({{ site.baseurl }}/cookies) 
+- [Main Dishes]({{ site.baseurl }}/main-dishes)
+- [Desserts]({{ site.baseurl }}/desserts)
 
 ## About This Site
 
 This is a personal collection of tested and loved recipes. Each recipe includes detailed instructions, ingredients list, and helpful tips for the best results.
 
-[Browse All Recipes](/recipes/) | [About](/about/)
+[Browse All Recipes]({{ site.baseurl }}/recipes/) | [About]({{ site.baseurl }}/about/)

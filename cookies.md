@@ -1,3 +1,8 @@
+---
+layout: page
+title: Cookies
+---
+
 # Cookies
 
 Flour and whatnot

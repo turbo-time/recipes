@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to our recipe collection! This site is a personal collection of tried and tested recipes that we love to make. Each recipe has been carefully documented with clear instructions and helpful tips to ensure your success in the kitchen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Feel free to explore our recipes and try them out. We hope you'll find some new favorites here!
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
