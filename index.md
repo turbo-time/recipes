@@ -3,24 +3,45 @@ layout: home
 title: Recipe Collection
 ---
 
-# Welcome to Our Recipe Collection
+# Our Recipe Collection
 
 A curated collection of our favorite recipes.
 
-## Latest Recipes
+## All Recipes
 
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% assign pages_with_title = site.pages | where_exp: "item", "item.title != nil" %}
+{% assign recipes = pages_with_title | where_exp: "item", "item.layout != 'home'" %}
+
+{% assign all_categories = recipes | map: "category" | compact | uniq %}
+{% for cat in all_categories %}
+### {{ cat | capitalize }}
+{% for recipe in recipes %}
+{% if recipe.category == cat %}
+- [{{ recipe.title }}]({{ recipe.url | relative_url }})
+  {% if recipe.tags %}
+  <br><small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
+  {% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
-## Recipe Categories
+### Uncategorized
+{% for recipe in recipes %}
+{% if recipe.category == nil and recipe.name != "404.html" %}
+- [{{ recipe.title }}]({{ recipe.url | relative_url }})
+  {% if recipe.tags %}
+  <br><small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
+  {% endif %}
+{% endif %}
+{% endfor %}
 
-- [Cookies]({{ site.baseurl }}/cookies) 
-- [Main Dishes]({{ site.baseurl }}/main-dishes)
-- [Desserts]({{ site.baseurl }}/desserts)
+## Recipe Tags
 
-## About This Site
+{% assign all_tags = site.pages | map: "tags" | compact | uniq | sort %}
+{% for tag in all_tags %}
+<code>{{ tag }}</code>{% unless forloop.last %} {% endunless %}
+{% endfor %}
 
-This is a personal collection of tested and loved recipes. Each recipe includes detailed instructions, ingredients list, and helpful tips for the best results.
+---
 
-[Browse All Recipes]({{ site.baseurl }}/recipes/) | [About]({{ site.baseurl }}/about/)
+[About]({{ site.baseurl }}/about/)

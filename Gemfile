@@ -4,7 +4,6 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "jekyll-theme-primer", "~> 0.6.0"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
   gem "jekyll-remote-theme"
 end
 

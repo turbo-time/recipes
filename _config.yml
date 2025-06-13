@@ -28,7 +28,6 @@ baseurl: "/recipes"
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
 
 # Build settings
 markdown: kramdown
