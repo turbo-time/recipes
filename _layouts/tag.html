@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<h1>Recipes tagged "{{ page.tag }}"</h1>
+
+{% assign recipes = site.pages | where_exp: "item", "item.tags contains page.tag" %}
+
+<ul>
+{% for recipe in recipes %}
+  {% if recipe.title and recipe.layout != 'home' and recipe.name != "404.html" %}
+  <li>
+    <a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
+    {% if recipe.tags %}
+    <br><small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
+    {% endif %}
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<p>
+<a href="{{ site.baseurl }}/">← Back to Recipe Collection</a>
+</p>

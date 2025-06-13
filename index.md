@@ -19,18 +19,18 @@ A curated collection of our favorite recipes.
 {% if recipe.category == cat %}
 - [{{ recipe.title }}]({{ recipe.url | relative_url }})
   {% if recipe.tags %}
-  <br><small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
+  <small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
   {% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
 
 ### Uncategorized
-{% for recipe in recipes %}
-{% if recipe.category == nil and recipe.name != "404.html" %}
-- [{{ recipe.title }}]({{ recipe.url | relative_url }})
-  {% if recipe.tags %}
-  <br><small><em>Tags: {{ recipe.tags | join: ", " }}</em></small>
+{% for page in recipes %}
+{% if page.category == nil and page.name != "404.html" and page.name contains "Recipes tagged" == false %}
+- [{{ page.title }}]({{ page.url | relative_url }})
+  {% if page.tags %}
+  <small><em>Tags: {{ page.tags | join: ", " }}</em></small>
   {% endif %}
 {% endif %}
 {% endfor %}
@@ -39,7 +39,7 @@ A curated collection of our favorite recipes.
 
 {% assign all_tags = site.pages | map: "tags" | compact | uniq | sort %}
 {% for tag in all_tags %}
-<code>{{ tag }}</code>{% unless forloop.last %} {% endunless %}
+[<code>{{ tag }}</code>]({{ site.baseurl }}/tags/{{ tag }}){% unless forloop.last %} {% endunless %}
 {% endfor %}
 
 ---
