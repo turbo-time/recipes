@@ -1,0 +1,5 @@
+Some possible themes for use with Jekyll
+
+Hyde https://hyde.getpoole.com/
+Lanyon https://lanyon.getpoole.com/
+
