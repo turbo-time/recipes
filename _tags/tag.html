@@ -1,12 +1,11 @@
 ---
-layout: page
+title: tag
 ---
+{% assign tag = page.name | remove: '.html' %}
 
-{% assign tag_name = page.name | remove: ".html" %}
+<h1>Recipes tagged "{{ tag }}"</h1>
 
-<h1>Recipes tagged "{{ tag_name }}"</h1>
-
-{% assign recipes = site.pages | where_exp: "item", "item.tags contains tag_name" %}
+{% assign recipes = site.pages | where_exp: "item", "item.tags contains tag" %}
 
 <ul>
 {% for recipe in recipes %}
