@@ -7,6 +7,43 @@ title: Recipe Collection
 
 A curated collection of our favorite recipes.
 
+## Search Recipes
+
+<input type="text" id="recipe-search" placeholder="Search recipes..." style="width:100%;padding:0.5em;font-size:1.1em;margin-bottom:1em;">
+<div id="search-results"></div>
+
+<script>
+// Fetch the recipe index and enable search
+fetch('{{ site.baseurl }}/recipes.json')
+  .then(response => response.json())
+  .then(recipes => {
+    const input = document.getElementById('recipe-search');
+    const results = document.getElementById('search-results');
+    input.addEventListener('input', function() {
+      const query = this.value.trim().toLowerCase();
+      if (!query) {
+        results.innerHTML = '';
+        return;
+      }
+      const matches = recipes.filter(r =>
+        (r.title && r.title.toLowerCase().includes(query)) ||
+        (r.category && r.category.toLowerCase().includes(query)) ||
+        (r.tags && r.tags.join(',').toLowerCase().includes(query)) ||
+        (r.content && r.content.toLowerCase().includes(query))
+      );
+      if (matches.length === 0) {
+        results.innerHTML = '<p>No recipes found.</p>';
+        return;
+      }
+      results.innerHTML = '<ul>' + matches.map(r =>
+        `<li><a href="${r.url}">${r.title}</a>` +
+        (r.tags && r.tags.length ? ` <small><em>Tags: ${r.tags.join(', ')}</em></small>` : '') +
+        '</li>'
+      ).join('') + '</ul>';
+    });
+  });
+</script>
+
 ## All Recipes
 
 {% assign pages_with_title = site.pages | where_exp: "item", "item.title != nil" %}
