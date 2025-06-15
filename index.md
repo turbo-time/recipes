@@ -39,7 +39,7 @@ A curated collection of our favorite recipes.
 
 {% assign all_tags = site.pages | map: "tags" | compact | uniq | sort %}
 {% for tag in all_tags %}
-[<code>{{ tag }}</code>]({{ site.baseurl }}/tags/{{ tag }}){% unless forloop.last %} {% endunless %}
+[<code>{{ tag }}</code>]({{ site.baseurl }}/tag.html?tag={{ tag | uri_escape }}){% unless forloop.last %} {% endunless %}
 {% endfor %}
 
 ---

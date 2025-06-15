@@ -1,0 +1,76 @@
+---
+layout: page
+title: Recipes by Tag
+permalink: /tag.html
+---
+
+<h1 id="tag-title">Recipes tagged "<span id="tag-name"></span>"</h1>
+<ul id="tagged-recipes">
+  <li>Loading...</li>
+</ul>
+
+<script id="recipes-data" type="application/json">
+[
+{% assign first = true %}
+{% for recipe in site.pages %}
+  {% if recipe.tags and recipe.title and recipe.layout != 'home' and recipe.name != "404.html" %}
+    {% unless first %},{% endunless %}{% assign first = false %}
+    {
+      "title": {{ recipe.title | jsonify }},
+      "url": {{ recipe.url | relative_url | jsonify }},
+      "tags": {{ recipe.tags | jsonify }}
+    }
+  {% endif %}
+{% endfor %}
+]
+</script>
+
+<script>
+// Parse tag from URL
+function getTagFromQuery() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('tag');
+}
+
+// Parse recipes from the JSON script tag
+var recipes = JSON.parse(document.getElementById('recipes-data').textContent);
+
+function renderRecipesForTag(tag) {
+  if (!tag) {
+    document.getElementById('tag-title').textContent = 'No tag specified.';
+    document.getElementById('tagged-recipes').innerHTML = '';
+    return;
+  }
+  document.getElementById('tag-name').textContent = tag;
+  // Filter recipes by tag (case-insensitive, match exactly)
+  var filtered = recipes.filter(function(r) {
+    return r && r.tags && r.tags.some(function(t) { return t.toLowerCase() === tag.toLowerCase(); });
+  });
+  var ul = document.getElementById('tagged-recipes');
+  if (filtered.length === 0) {
+    ul.innerHTML = '<li>No recipes found for this tag.</li>';
+    return;
+  }
+  ul.innerHTML = '';
+  filtered.forEach(function(recipe) {
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = recipe.url;
+    a.textContent = recipe.title;
+    li.appendChild(a);
+    if (recipe.tags) {
+      var small = document.createElement('small');
+      small.innerHTML = '<br><em>Tags: ' + recipe.tags.join(', ') + '</em>';
+      li.appendChild(small);
+    }
+    ul.appendChild(li);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  var tag = getTagFromQuery();
+  renderRecipesForTag(tag);
+});
+</script>
+
+<p><a href="{{ site.baseurl }}/">← Back to Recipe Collection</a></p>
