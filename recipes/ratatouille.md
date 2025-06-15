@@ -2,10 +2,22 @@
 layout: page
 title: Ratatouille
 tags:
-  - ratatouille
-  - vegetarian
-  - side dish
+  - tomato
+  - garlic
+  - onion
+  - zucchini
+  - squash
+  - red pepper
+  - yellow pepper
+  - mushrooms
+  - olive oil
   - french
+  - vegetarian
+  - ratatouille
+  - baked
+  - side
+  - summer
+  - classic
 category: side dishes
 ---
 

@@ -2,9 +2,16 @@
 layout: page
 title: Bread Pudding
 tags:
-  - bread pudding
+  - bread
+  - milk
+  - eggs
+  - butter
+  - cinnamon
+  - vanilla
+  - baked
   - dessert
-  - comfort food
+  - comfort-food
+  - holiday
 category: desserts
 ---
 

@@ -2,10 +2,19 @@
 layout: page
 title: Dad's Chess Cake
 tags:
-  - cake
-  - dessert
-  - chocolate
+  - cake mix
+  - egg
+  - vanilla
+  - butter
+  - almonds
   - cream cheese
+  - chocolate
+  - powdered sugar
+  - cake
+  - baked
+  - dessert
+  - holiday
+  - party
 category: desserts
 ---
 

@@ -2,11 +2,20 @@
 layout: page
 title: Orange Thyme Vinaigrette
 tags:
-  - vinaigrette
-  - dressing
   - orange
   - thyme
+  - olive oil
+  - vinegar
+  - lemon
+  - onion
+  - sugar
+  - vinaigrette
+  - dressing
   - sauce
+  - raw
+  - salad
+  - summer
+  - fresh
 category: sauces
 ---
 

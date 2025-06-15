@@ -2,10 +2,16 @@
 layout: page
 title: Garam Masala (For Cookies)
 tags:
-  - spice blend
-  - garam masala
+  - cumin
+  - clove
+  - cardamom
+  - black pepper
+  - cinnamon
+  - coriander
+  - nutmeg
   - indian
-  - spice
+  - spice blend
+  - pantry staple
 category: pantry staples
 ---
 

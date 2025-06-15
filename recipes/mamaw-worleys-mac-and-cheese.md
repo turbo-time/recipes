@@ -2,10 +2,16 @@
 layout: page
 title: Mamaw Worley's Mac and Cheese
 tags:
-  - pasta
+  - macaroni
   - cheese
-  - comfort food
-  - side dish
+  - milk
+  - butter
+  - mac and cheese
+  - baked
+  - side
+  - comfort-food
+  - classic
+  - family
 category: side dishes
 ---
 

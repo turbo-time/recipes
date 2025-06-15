@@ -2,10 +2,18 @@
 layout: page
 title: Pickles That Dad Likes (Bread and Butter-ish)
 tags:
-  - pickles
+  - cucumber
+  - dill
+  - sugar
+  - onion
+  - pepper
+  - pickled
   - canning
-  - bread and butter pickles
+  - bread and butter
   - vegetarian
+  - summer
+  - preserves
+  - classic
 category: preserves
 ---
 

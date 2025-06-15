@@ -2,9 +2,18 @@
 layout: page
 title: Hot Chocolate Pudding
 tags:
-  - pudding
   - chocolate
+  - cocoa
+  - milk
+  - butter
+  - vanilla
+  - sugar
+  - flour
+  - pudding
+  - stovetop
   - dessert
+  - winter
+  - comfort-food
 category: desserts
 ---
 

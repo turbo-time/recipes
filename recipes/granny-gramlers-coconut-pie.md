@@ -2,10 +2,18 @@
 layout: page
 title: Granny Gramler's Coconut Pie
 tags:
-  - pie
   - coconut
+  - sugar
+  - eggs
+  - flour
+  - vanilla
+  - milk
+  - butter
+  - pie
+  - baked
   - dessert
-  - baking
+  - holiday
+  - classic
 category: desserts
 ---
 

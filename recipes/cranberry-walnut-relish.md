@@ -2,11 +2,17 @@
 layout: page
 title: Cranberry Walnut Relish
 tags:
-  - relish
   - cranberry
   - walnut
-  - side dish
+  - orange
+  - lemon
+  - sugar
+  - relish
+  - side
+  - baked
   - Thanksgiving
+  - holiday
+  - fall
 category: side dishes
 ---
 

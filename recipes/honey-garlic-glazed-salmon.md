@@ -3,10 +3,17 @@ layout: page
 title: Honey Garlic Glazed Salmon
 tags:
   - salmon
-  - honey garlic
+  - honey
+  - garlic
+  - butter
+  - soy sauce
+  - sriracha
   - glazed
-  - main course
+  - pan-seared
+  - main
   - fish
+  - dinner
+  - special
 category: main course
 ---
 

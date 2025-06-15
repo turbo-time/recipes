@@ -2,10 +2,13 @@
 layout: page
 title: Cooling Water (from 1816)
 tags:
-  - drink
-  - historical
+  - lemon
+  - sugar
+  - cream of tartar
   - beverage
+  - drink
   - summer
+  - historical
 category: beverages
 ---
 

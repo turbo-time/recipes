@@ -2,9 +2,18 @@
 layout: page
 title: Corn and Black Bean Salsa
 tags:
+  - black beans
+  - corn
+  - tomato
+  - onion
+  - lime
+  - cilantro
+  - vegetarian
   - salsa
   - appetizer
-  - vegetarian
+  - raw
+  - summer
+  - party
 category: appetizers
 ---
 

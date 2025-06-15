@@ -2,11 +2,22 @@
 layout: page
 title: Shepherd's Pie
 tags:
-  - shepherd's pie
   - beef
-  - comfort food
-  - main course
   - potato
+  - butter
+  - onion
+  - carrots
+  - peas
+  - beef broth
+  - milk
+  - british
+  - shepherd's pie
+  - baked
+  - main
+  - comfort-food
+  - classic
+  - family
+  - winter
 category: main course
 ---
 

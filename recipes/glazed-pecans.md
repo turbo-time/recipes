@@ -3,8 +3,15 @@ layout: page
 title: Glazed Pecans
 tags:
   - pecans
+  - honey
+  - butter
+  - sugar
+  - cinnamon
   - glazed
   - snack
+  - baked
+  - holiday
+  - party
   - sweet
 category: snacks
 ---

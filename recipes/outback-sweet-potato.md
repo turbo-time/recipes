@@ -3,9 +3,16 @@ layout: page
 title: Outback Sweet Potato
 tags:
   - sweet potato
-  - side dish
+  - butter
+  - honey
+  - cinnamon
+  - brown sugar
+  - baked
+  - side
+  - comfort-food
   - copycat
-  - comfort food
+  - holiday
+  - fall
 category: side dishes
 ---
 

@@ -3,8 +3,16 @@ layout: page
 title: Mom's Chicken Casserole
 tags:
   - chicken
+  - cream of chicken
+  - rice
+  - stuffing
+  - vegetables
   - casserole
-  - comfort food
+  - baked
+  - main
+  - comfort-food
+  - family
+  - classic
 category: main course
 ---
 

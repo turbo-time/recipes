@@ -2,10 +2,22 @@
 layout: page
 title: Quiche
 tags:
+  - eggs
+  - ham
+  - milk
+  - mayo
+  - pie shell
+  - onion
+  - broccoli
+  - cheese
+  - flour
+  - french
   - quiche
-  - savory pie
-  - main course
+  - baked
   - breakfast
+  - main
+  - brunch
+  - classic
 category: main course
 ---
 

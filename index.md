@@ -37,10 +37,12 @@ A curated collection of our favorite recipes.
 
 ## Recipe Tags
 
+<div class="tag-list" style="margin-bottom:1em;">
 {% assign all_tags = site.pages | map: "tags" | compact | uniq | sort %}
 {% for tag in all_tags %}
-[<code>{{ tag }}</code>]({{ site.baseurl }}/tag.html?tag={{ tag | uri_escape }}){% unless forloop.last %} {% endunless %}
+  <a href="{{ site.baseurl }}/tag.html?tag={{ tag | uri_escape }}" style="display:inline-block; margin:0 0.5em 0.5em 0; padding:0.2em 0.7em; background:#f3f3f3; border-radius:1em; text-decoration:none; color:#333; font-size:1em;"><code>{{ tag }}</code></a>
 {% endfor %}
+</div>
 
 ---
 

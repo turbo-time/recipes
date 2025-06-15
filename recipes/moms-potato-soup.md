@@ -2,10 +2,20 @@
 layout: page
 title: Mom's Potato Soup (Crockpot)
 tags:
-  - soup
-  - crockpot
   - potato
-  - comfort food
+  - onion
+  - cheese
+  - ham
+  - milk
+  - garlic
+  - basil
+  - soup
+  - slow-cooker
+  - main
+  - comfort-food
+  - winter
+  - family
+  - classic
 category: main course
 ---
 

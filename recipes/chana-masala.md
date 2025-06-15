@@ -2,10 +2,20 @@
 layout: page
 title: Chana Masala
 tags:
+  - chickpeas
+  - onion
+  - garlic
+  - ginger
+  - tomato
+  - cumin
+  - coriander
+  - turmeric
+  - garam masala
   - indian
   - vegetarian
-  - chickpeas
   - curry
+  - stovetop
+  - main
 category: main course
 ---
 

@@ -2,10 +2,20 @@
 layout: page
 title: Adrienne's Veggie Soup
 tags:
-  - soup
   - vegetable
+  - tomato
+  - potato
+  - carrot
+  - celery
+  - onion
+  - beans
+  - corn
+  - green beans
   - vegetarian
-  - comfort food
+  - soup
+  - stovetop
+  - comfort-food
+  - winter
 category: main course
 ---
 

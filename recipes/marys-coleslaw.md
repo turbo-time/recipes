@@ -2,10 +2,19 @@
 layout: page
 title: Mary's Coleslaw
 tags:
+  - cabbage
+  - mayo
+  - vinegar
+  - sugar
+  - dill
   - coleslaw
-  - side dish
   - salad
+  - side
   - vegetarian
+  - raw
+  - summer
+  - picnic
+  - barbecue
 category: side dishes
 ---
 

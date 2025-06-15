@@ -3,9 +3,20 @@ layout: page
 title: Mary's Sweet Potato Casserole
 tags:
   - sweet potato
+  - coconut
+  - sugar
+  - eggs
+  - milk
+  - margarine
+  - vanilla
+  - pecans
   - casserole
-  - side dish
+  - baked
+  - side
   - Thanksgiving
+  - holiday
+  - fall
+  - comfort-food
 category: side dishes
 ---
 

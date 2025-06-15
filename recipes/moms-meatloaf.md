@@ -2,9 +2,18 @@
 layout: page
 title: Mom's Meatloaf
 tags:
-  - meatloaf
   - beef
-  - comfort food
+  - eggs
+  - bread
+  - garlic
+  - mustard
+  - bbq sauce
+  - meatloaf
+  - baked
+  - main
+  - comfort-food
+  - family
+  - classic
 category: main course
 ---
 

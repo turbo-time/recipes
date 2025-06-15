@@ -2,9 +2,17 @@
 layout: page
 title: Momma's Biscuits
 tags:
+  - flour
+  - sugar
+  - milk
+  - mayo
   - biscuits
+  - baked
   - quick bread
   - breakfast
+  - comfort-food
+  - southern
+  - classic
 category: baked goods
 ---
 

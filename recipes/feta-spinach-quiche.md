@@ -2,11 +2,17 @@
 layout: page
 title: Feta Spinach Quiche
 tags:
-  - quiche
   - feta
   - spinach
-  - savory pie
-  - main course
+  - eggs
+  - milk
+  - prosciutto
+  - pie crust
+  - french
+  - quiche
+  - baked
+  - main
+  - brunch
 category: main course
 ---
 

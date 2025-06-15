@@ -2,11 +2,20 @@
 layout: page
 title: Mom's Lasagna
 tags:
-  - lasagna
-  - pasta
+  - lasagna noodles
   - beef
+  - ricotta
+  - parmesan
+  - mozzarella
+  - tomato sauce
   - italian
-  - comfort food
+  - lasagna
+  - baked
+  - pasta
+  - main
+  - comfort-food
+  - family
+  - classic
 category: main course
 ---
 

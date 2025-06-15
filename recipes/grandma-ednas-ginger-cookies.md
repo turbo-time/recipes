@@ -2,10 +2,19 @@
 layout: page
 title: Grandma Edna's Ginger Cookies
 tags:
-  - cookies
   - ginger
-  - holiday
+  - brown sugar
+  - molasses
+  - flour
+  - egg
+  - cinnamon
+  - cloves
+  - cookies
+  - baked
   - dessert
+  - holiday
+  - winter
+  - classic
 category: desserts
 ---
 

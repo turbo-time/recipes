@@ -2,10 +2,18 @@
 layout: page
 title: Sour Fridge Pickle Base
 tags:
-  - pickles
-  - refrigerator pickles
-  - base recipe
+  - cucumber
+  - dill
+  - vinegar
+  - salt
+  - red pepper flake
+  - peppercorns
+  - pickled
+  - refrigerator
   - vegetarian
+  - preserves
+  - summer
+  - classic
 category: preserves
 ---
 

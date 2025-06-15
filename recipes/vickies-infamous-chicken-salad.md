@@ -2,10 +2,20 @@
 layout: page
 title: Vickie's Infamous Chicken Salad (approx.)
 tags:
-  - chicken salad
+  - chicken
+  - mayo
+  - walnuts
+  - grapes
+  - pineapple
+  - sugar
   - salad
+  - chicken salad
+  - main
   - lunch
-  - comfort food
+  - cold
+  - summer
+  - picnic
+  - classic
 category: main course
 ---
 

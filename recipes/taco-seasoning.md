@@ -2,10 +2,21 @@
 layout: page
 title: Taco Seasoning
 tags:
-  - seasoning blend
-  - taco
+  - chili powder
+  - paprika
+  - garlic
+  - onion
+  - red pepper flakes
+  - cumin
+  - salt
+  - pepper
   - mexican
+  - seasoning blend
   - spice
+  - pantry staple
+  - taco
+  - dinner
+  - classic
 category: pantry staples
 ---
 

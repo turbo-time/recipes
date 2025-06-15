@@ -2,9 +2,18 @@
 layout: page
 title: Simple White Gravy
 tags:
+  - butter
+  - flour
+  - milk
+  - salt
+  - pepper
   - gravy
   - sauce
-  - comfort food
+  - stovetop
+  - comfort-food
+  - southern
+  - classic
+  - breakfast
 category: sauces
 ---
 

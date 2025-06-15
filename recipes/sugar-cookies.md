@@ -2,9 +2,19 @@
 layout: page
 title: Sugar Cookies
 tags:
+  - butter
+  - sugar
+  - eggs
+  - vanilla
+  - flour
+  - baking powder
+  - salt
   - cookies
+  - baked
   - dessert
-  - baking
+  - holiday
+  - classic
+  - snack
 category: desserts
 ---
 

@@ -2,10 +2,17 @@
 layout: page
 title: Mom's Baked Mac & Cheese
 tags:
+  - elbow noodles
+  - cheese
+  - eggs
+  - evaporated milk
+  - mustard
   - mac and cheese
   - baked
-  - comfort food
-  - side dish
+  - side
+  - comfort-food
+  - classic
+  - family
 category: main course
 ---
 

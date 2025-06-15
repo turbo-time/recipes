@@ -2,8 +2,14 @@
 layout: page
 title: Pumpkin Spice Recipe
 tags:
+  - cinnamon
+  - cloves
+  - ginger
+  - nutmeg
   - spice blend
-  - pumpkin spice
+  - pantry staple
+  - fall
+  - holiday
   - baking
 category: pantry staples
 ---

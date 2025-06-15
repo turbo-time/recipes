@@ -2,9 +2,16 @@
 layout: page
 title: Classic Chocolate Chip Cookies
 tags:
-  - dessert
-  - baking
+  - flour
+  - butter
+  - sugar
+  - chocolate chips
+  - eggs
+  - baked
   - cookies
+  - dessert
+  - holiday
+  - comfort-food
 category: desserts
 ---
 

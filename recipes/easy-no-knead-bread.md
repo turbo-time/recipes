@@ -2,9 +2,15 @@
 layout: page
 title: Easy No-Knead Bread
 tags:
+  - flour
+  - yeast
+  - salt
+  - water
   - bread
-  - baking
+  - baked
   - basic
+  - beginner
+  - side
 category: baked goods
 ---
 

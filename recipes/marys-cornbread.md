@@ -2,9 +2,18 @@
 layout: page
 title: Mary's Cornbread
 tags:
+  - cornmeal
+  - flour
+  - sugar
+  - milk
+  - egg
+  - oil
   - cornbread
-  - side dish
-  - baking
+  - baked
+  - side
+  - comfort-food
+  - southern
+  - classic
 category: baked goods
 ---
 

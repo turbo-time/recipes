@@ -2,11 +2,20 @@
 layout: page
 title: Oatmeal Walnut Choco-Chip Cookies
 tags:
-  - cookies
-  - oatmeal
+  - oats
   - walnut
-  - chocolate chip
+  - chocolate chips
+  - butter
+  - brown sugar
+  - vanilla
+  - egg
+  - flour
+  - cookies
+  - baked
   - dessert
+  - holiday
+  - snack
+  - classic
 category: desserts
 ---
 

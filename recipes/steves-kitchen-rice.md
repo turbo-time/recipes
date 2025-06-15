@@ -3,8 +3,15 @@ layout: page
 title: Cooking Rice (Steve's Kitchen)
 tags:
   - rice
+  - butter
+  - water
+  - salt
+  - stovetop
+  - side
   - basic
-  - side dish
+  - beginner
+  - classic
+  - comfort-food
 category: side dishes
 ---
 

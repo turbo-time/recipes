@@ -3,9 +3,18 @@ layout: page
 title: Uncle Mike's Lebanese Rice
 tags:
   - rice
+  - pine nuts
+  - hamburger meat
+  - butter
+  - chicken broth
+  - pumpkin pie spice
   - lebanese
-  - side dish
   - middle eastern
+  - side
+  - stovetop
+  - comfort-food
+  - classic
+  - family
 category: side dishes
 ---
 

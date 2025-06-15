@@ -2,10 +2,18 @@
 layout: page
 title: Mamaw Worley's Apple Bread
 tags:
-  - bread
   - apple
-  - dessert
+  - flour
+  - sugar
+  - eggs
+  - oil
+  - bread
+  - baked
   - quick bread
+  - dessert
+  - snack
+  - fall
+  - classic
 category: baked goods
 ---
 

@@ -2,10 +2,19 @@
 layout: page
 title: Mug Brownie
 tags:
-  - dessert
-  - microwave
+  - flour
+  - sugar
+  - cocoa
+  - oil
+  - water
   - chocolate
-  - quick dessert
+  - brownie
+  - microwave
+  - dessert
+  - quick
+  - single-serve
+  - comfort-food
+  - snack
 category: desserts
 ---
 

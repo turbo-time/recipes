@@ -2,11 +2,15 @@
 layout: page
 title: Baked Sweet Butternut Squash
 tags:
-  - squash
   - butternut squash
-  - baked
-  - side dish
+  - butter
+  - brown sugar
+  - cinnamon
   - vegetarian
+  - baked
+  - side
+  - fall
+  - holiday
 category: side dishes
 ---
 

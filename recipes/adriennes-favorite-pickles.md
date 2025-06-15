@@ -2,9 +2,13 @@
 layout: page
 title: Adrienne's Favorite Pickles
 tags:
-  - pickles
-  - canning
+  - cucumber
+  - dill
+  - garlic
   - vegetarian
+  - canning
+  - pickled
+  - summer
 category: preserves
 ---
 

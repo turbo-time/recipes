@@ -4,8 +4,17 @@ title: Chicken Fried Rice
 tags:
   - rice
   - chicken
+  - eggs
+  - peas
+  - carrots
+  - onion
+  - garlic
+  - soy sauce
+  - sesame oil
   - asian
-  - main course
+  - fried
+  - stovetop
+  - main
 category: main course
 ---
 

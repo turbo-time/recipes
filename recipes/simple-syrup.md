@@ -2,9 +2,15 @@
 layout: page
 title: Simple Syrup
 tags:
+  - sugar
+  - water
   - syrup
+  - pantry staple
   - cocktails
+  - stovetop
   - basic
+  - bar
+  - drink
 category: pantry staples
 ---
 

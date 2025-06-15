@@ -2,11 +2,19 @@
 layout: page
 title: Slow Cooker Honey Garlic Chicken
 tags:
-  - slow cooker
   - chicken
   - garlic
   - honey
-  - main course
+  - potatoes
+  - carrots
+  - soy sauce
+  - parsley
+  - basil
+  - slow-cooker
+  - main
+  - comfort-food
+  - dinner
+  - easy
 category: main course
 ---
 

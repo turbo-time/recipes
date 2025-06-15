@@ -2,11 +2,19 @@
 layout: page
 title: Scalloped Turnips & Potatoes
 tags:
-  - scalloped
   - turnip
   - potato
-  - side dish
-  - comfort food
+  - butter
+  - onion
+  - cream
+  - parsley
+  - scalloped
+  - baked
+  - side
+  - comfort-food
+  - classic
+  - holiday
+  - winter
 category: side dishes
 ---
 

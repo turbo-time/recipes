@@ -2,10 +2,15 @@
 layout: page
 title: Alfredo Sauce
 tags:
-  - sauce
-  - alfredo
-  - pasta sauce
+  - butter
+  - cream
+  - parmesan
+  - garlic
+  - basil
   - italian
+  - sauce
+  - stovetop
+  - vegetarian
 category: sauces
 ---
 

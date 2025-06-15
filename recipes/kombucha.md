@@ -2,9 +2,16 @@
 layout: page
 title: Kombucha
 tags:
-  - drink
+  - tea
+  - sugar
+  - water
+  - scoby
   - fermented
   - beverage
+  - drink
+  - vegan
+  - refreshing
+  - probiotic
 category: beverages
 ---
 

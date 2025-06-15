@@ -2,9 +2,16 @@
 layout: page
 title: Belgian Waffles
 tags:
-  - waffles
+  - flour
+  - eggs
+  - milk
+  - butter
+  - vanilla
+  - belgian
+  - waffle
   - breakfast
   - sweet
+  - baked
 category: breakfast
 ---
 

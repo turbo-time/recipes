@@ -2,10 +2,19 @@
 layout: page
 title: Snickerdoodle Cookies
 tags:
-  - cookies
-  - snickerdoodle
+  - butter
+  - sugar
+  - eggs
+  - vanilla
+  - flour
   - cinnamon
+  - cream of tartar
+  - cookies
+  - baked
   - dessert
+  - holiday
+  - snack
+  - classic
 category: desserts
 ---
 

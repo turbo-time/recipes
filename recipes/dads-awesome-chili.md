@@ -2,11 +2,20 @@
 layout: page
 title: Dad's Awesome Chili (Crockpot Recipe)
 tags:
-  - chili
-  - crockpot
   - beef
   - sausage
-  - comfort food
+  - kidney beans
+  - tomato
+  - onion
+  - green pepper
+  - garlic
+  - chili powder
+  - chili
+  - slow-cooker
+  - stew
+  - comfort-food
+  - winter
+  - main
 category: main course
 ---
 

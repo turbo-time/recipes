@@ -2,10 +2,19 @@
 layout: page
 title: Narda's Dateballs
 tags:
-  - date
+  - dates
+  - butter
+  - rice crispies
+  - coconut
+  - sugar
+  - powdered sugar
   - no-bake
   - dessert
   - sweet
+  - snack
+  - holiday
+  - party
+  - classic
 category: desserts
 ---
 

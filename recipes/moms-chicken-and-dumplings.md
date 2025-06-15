@@ -3,9 +3,19 @@ layout: page
 title: Mom's Chicken & Dumplings
 tags:
   - chicken
+  - flour
+  - sugar
+  - mayo
+  - milk
+  - bouillon
+  - garlic
   - dumplings
-  - comfort food
-  - main course
+  - boiled
+  - main
+  - comfort-food
+  - southern
+  - family
+  - classic
 category: main course
 ---
 

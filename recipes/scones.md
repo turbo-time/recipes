@@ -2,10 +2,19 @@
 layout: page
 title: Scones
 tags:
+  - flour
+  - sugar
+  - butter
+  - egg
+  - milk
+  - vanilla
   - scones
+  - baked
   - quick bread
   - breakfast
-  - baking
+  - brunch
+  - classic
+  - snack
 category: baked goods
 ---
 
