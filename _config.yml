@@ -33,17 +33,11 @@ plugins:
 collections:
   tags:
     output: true
-    permalink: /tags/:name/
+    permalink: /tags/:name.html
 
 # Build settings
 markdown: kramdown
 github_username: turbo-time
-
-# Collections
-collections:
-  tags:
-    output: true
-    permalink: /tags/:name/
 
 # Default front matter settings
 defaults:
@@ -59,6 +53,10 @@ defaults:
     values:
       layout: "page"
       tags: []
+  - scope:
+      type: tags
+    values:
+      layout: tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
