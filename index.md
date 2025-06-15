@@ -3,10 +3,6 @@ layout: home
 title: Recipe Collection
 ---
 
-# Our Recipe Collection
-
-A curated collection of our favorite recipes.
-
 ## Search Recipes
 
 <input type="text" id="recipe-search" placeholder="Search recipes..." style="width:100%;padding:0.5em;font-size:1.1em;margin-bottom:1em;">
